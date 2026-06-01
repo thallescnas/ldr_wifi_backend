@@ -26,4 +26,8 @@ public class ArduinoController {
     public ResponseEntity<?> valueRead() {
         return ResponseEntity.ok(service.lastRead());
     }
+    @GetMapping("/all")
+    public ResponseEntity<?> readAllValues() {
+        return ResponseEntity.ok(service.getReads());
+    }
 }
