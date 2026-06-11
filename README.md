@@ -84,3 +84,8 @@ Este backend é a contraparte do projeto [LDR WiFi](https://github.com/thallescn
 - **Rota de envio**: `/api/arduino/`
 
 Para detalhes sobre o hardware (Sensores LDR, Módulo ESP8266), consulte o repositório do firmware.
+
+Autores/Colaboradores:
+Thalles Cruz do Nascimento - https://github.com/thallescnas
+João Victor Elizeu Silva - https://github.com/victorelizeu
+Raíssa Oliveira da Rosa - https://github.com/raissaoliveiradarosa384-hub
